@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name KiCADMechKBLibraries)(type KiCad)(uri D:/MechKeyboard/KiCADMechKBLibraries)(options "")(descr ""))
+  (lib (name keebspretty)(type KiCad)(uri D:/MechKeyboard/KiCADMechKBLibraries/keebs.pretty-master)(options "")(descr ""))
+  (lib (name kbparts_pretty)(type KiCad)(uri D:/MechKeyboard/KiCADMechKBLibraries/keyboard_parts.pretty-master)(options "")(descr ""))
+  (lib (name type_c)(type KiCad)(uri D:/MechKeyboard/KiCADMechKBLibraries/Type-C.pretty-master)(options "")(descr ""))
+  (lib (name MX_Alps_keys)(type KiCad)(uri D:/MechKeyboard/KiCADMechKBLibraries/MX_Alps_Hybrid-master/MX_Alps_Hybrid.pretty)(options "")(descr ""))
+)

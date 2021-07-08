@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name MechKBNumpad1-rescue)(type Legacy)(uri ${KIPRJMOD}/MechKBNumpad1-rescue.lib)(options "")(descr ""))
+  (lib (name keyboardparts)(type Legacy)(uri D:/MechKeyboard/KiCADMechKBLibraries/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name mkl27z)(type Legacy)(uri D:/MechKeyboard/KiCADMechKBLibraries/kicad_lib_tmk-master/mkl27z256vfm4.lib)(options "")(descr ""))
+  (lib (name USB_C)(type Legacy)(uri D:/MechKeyboard/KiCADMechKBLibraries/Type-C.pretty-master/Type-C.lib)(options "")(descr ""))
+  (lib (name MX_Alps)(type Legacy)(uri "D:/MechKeyboard/KiCADMechKBLibraries/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+)
