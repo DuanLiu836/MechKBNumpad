@@ -1,3 +1,3 @@
-# Custom Mechanical Keyboard Numpad designed using KiCad.
+# Custom Mechanical Keyboard Numpad Designed Using KiCad.
 
 
